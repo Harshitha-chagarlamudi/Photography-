@@ -245,7 +245,7 @@
   padding: 50px 20px;
 }
 .content{
-  background: url(./camera.png);
+  background: url(./assets/camera.png);
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
