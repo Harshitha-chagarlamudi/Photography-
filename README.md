@@ -1,4 +1,4 @@
-# Photograph-Website
+# Photograph-Website 
 "Explore the artistry of photography with our project, where creativity meets technology. Through a seamless blend of HTML and CSS, we've crafted an immersive online platform that showcases the beauty of visual storytelling. Navigate through an elegantly designed interface that not only highlights the captivating images captured but also reflects the artistry behind the lens."
 -<img width="959" alt="photo1" src="https://github.com/Harshitha-chagarlamudi/Photography-/assets/156400575/e88a2ece-bdb1-4dec-a08d-f50d0aaaab72">
 <img width="960" alt="photo2" src="https://github.com/Harshitha-chagarlamudi/Photography-/assets/156400575/1753405b-bd97-44f0-b0ed-9085c07355c4">
